@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats-ten-jet-8ylel47b6d.vercel.app/api?username=Redamancy2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Redamancy2107&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-wheat-alpha.vercel.app/?user=Redamancy2107&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats-ten-jet-8ylel47b6d.vercel.app/api/top-langs/?username=Redamancy2107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
 </div>
