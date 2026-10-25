@@ -43,7 +43,7 @@
 ### 📊 Thống kê GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Redamancy2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Redamancy2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Redamancy2107&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/><br/>
